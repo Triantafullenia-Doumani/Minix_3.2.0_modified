@@ -1,6 +1,9 @@
 # Minix_3.2.0_modified
 Modifying the Minix 3.2.0 source code for the purpose of fair scheduling of processes
 
+!Repository does not include the entire source code of  Minix_3.2.0 , only modified files!
+
+
 Minix 3.2.0
 Η βασική ιδέα της ειναι να πραγματοποιήσουμε δίκαιη χρονοδρομολόγηση για
 τις διεργασίες χρήστη.Για να το πετύχουμε αυτο τοποθετήσαμε ολες τις
