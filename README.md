@@ -137,4 +137,6 @@ fss_priority και proc
 λοιπον θα δουμε και παρακατω με καποια screenshots που βγαλαμε οσο
 ετρεχαν (παρατηρουμε τις διεργασιες με ονομα sh).
 
+![scedBefore](https://user-images.githubusercontent.com/81445900/113424391-bf802f00-93d8-11eb-9310-5340126bb2e6.png)
+![sced](https://user-images.githubusercontent.com/81445900/113424398-c313b600-93d8-11eb-9754-33b1fe782935.png)
 
