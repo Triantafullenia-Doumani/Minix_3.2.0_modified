@@ -1,7 +1,7 @@
 # Minix_3.2.0_modified
 Modifying the Minix 3.2.0 source code for the purpose of fair scheduling of user processes
 
-# Repository does not include the entire source code of  Minix_3.2.0 , only modified files #
+Repository does not include the entire source code of  Minix_3.2.0 , only modified files #
 
 
 Minix 3.2.0
@@ -12,7 +12,7 @@ Minix 3.2.0
 Συνεπώς μείωσαμε το συνολικό πλήθος ουρων σε 8,και ορίσαμε ως ουρα
 χρήστη την 7 στον κατάλογο include/minix/config.h.
 
-Βήμα 1ο : Επικοινωνία PM με SCHED
+# Βήμα 1ο : Επικοινωνία PM με SCHED
 
 Ο διακομιστής διεργασιών (PM) διατηρεί εναν πίνακα (mproc) με τις
 πληροφορίες της κάθε νέας διεργασίας.Σε αυτον τον πίνακα ειναι
@@ -25,7 +25,7 @@ Minix 3.2.0
 μηνύματος ειναι mess 7,οπότε αποθηκέυσαμε το mp_procgrp εκει,αφου πρώτα
 εχουμε κάνει define το PM_PROCGRP στο include/minix/com.h
 
-Βήμα 2ο : Χρονοδρομολόγηση SCHED
+# Βήμα 2ο : Χρονοδρομολόγηση SCHED
 
 Ο sched διατηρέι ενα πίνακα διεργασιώ (schedproc).Για τις ανάγκες της
 άσκησης προσθέσαμε 4 επιπλέον
@@ -107,7 +107,7 @@ do_schedule του kernel/system
 
 sched_proc του kernel/system.c
 
-Βήμα 3ο : Επιλογή επόμενης διεργασίας προς εκτέλεση απο
+# Βήμα 3ο : Επιλογή επόμενης διεργασίας προς εκτέλεση απο
 τον πυρήνα
 
 Ο πυρήνας αναλαμβανει ποια ειναι η επόμενη διεργασία που θα τρέξει.Συνεπώς
