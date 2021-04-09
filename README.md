@@ -1,7 +1,7 @@
 # Minix_3.2.0_modified
 Modifying the Minix 3.2.0 source code for the purpose of fair scheduling of user processes
 
-!Repository does not include the entire source code of  Minix_3.2.0 , only modified files!
+# Repository does not include the entire source code of  Minix_3.2.0 , only modified files #
 
 
 Minix 3.2.0
